@@ -1,3 +1,4 @@
-# react-ts-xr9pxm
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-xr9pxm)
+head.log.int.loop
+(
+  head.log.int
+)
